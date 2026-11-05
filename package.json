@@ -1,0 +1,10 @@
+{
+  "name": "smart-career-coach-platform",
+  "version": "1.0.0",
+  "description": "Smart Career Coach - AI-Powered Mock Interview & Placement Preparation Platform",
+  "scripts": {
+    "server": "cd server/server && npm start",
+    "client": "cd client/client && npm run dev",
+    "start": "cd server/server && npm start"
+  }
+}

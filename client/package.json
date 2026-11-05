@@ -1,0 +1,8 @@
+{
+  "name": "smart-career-coach-client-forwarder",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "cd client && npm run dev",
+    "build": "cd client && npm run build"
+  }
+}

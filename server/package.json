@@ -1,0 +1,8 @@
+{
+  "name": "smart-career-coach-server-forwarder",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "cd server && npm start",
+    "dev": "cd server && npm run dev"
+  }
+}
